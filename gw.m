@@ -1,5 +1,5 @@
 function [w ,xi] = gw(n)
-%function returns vector of xi locations and w weights for gausian
+%function returns vector of xi locations and w weights for gaussian
 %integration with n points
 %assumins integral is over 0-1
 switch n
